@@ -19,10 +19,10 @@ A CLI-based bank management system built using Python.
 
 ## Project Structure
 bank_system/
-│── main.py # Run this file
-│── Account.py # BankAccount class
-│── Bank.py # Bank class
-│── data/ # JSON data (auto-created)
+- ├── main.py # Run this file
+- ├── Account.py # BankAccount class
+- ├── Bank.py # Bank class
+- └── data/ # JSON data (auto-created)
 
 ## How to Run
 ```bash
